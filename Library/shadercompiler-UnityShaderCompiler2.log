@@ -1,0 +1,18 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Cmd: initializeCompiler
+Cmd: translateComputeKernel
+  api=14 insize=841 outsize=785 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=5765 outsize=8357 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=9621 outsize=16409 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=1505 outsize=1801 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1485 outsize=2257 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+
+Quitting shader compiler process

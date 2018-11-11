@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{02AC5B45-86A7-7EE6-C7C8-3A79DA6A488C}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader">
+    <Files>
+      <File FileName="Assets/TutorialInfo/Scripts/Readme.cs" Line="1" Column="1" />
+      <File FileName="Assets/TextMesh Pro/Resources/Shaders/TMP_Sprite.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
